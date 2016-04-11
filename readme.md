@@ -1,10 +1,10 @@
 **Summary**:
-Selenium functional test utilizing Java and JUnit to test Pardot web application  
+Selenium functional test using Java and JUnit to test Pardot web application  
 
 **Pre-requisite:**  
 1) Need to install Java JDK 
-2) Need to install Selenium or Maven(includes Selenium)  
-3) Install IDE to open the project (eg: IntelliK IDEA) or command line tool  
+2) Need to install Selenium or Maven (by default includes Selenium installation)  
+3) Install IDE to open the project (eg: IntelliJ IDEA)    
 
 **How to run the test:**  
 1) Open the project in IDE by navigating to maven project file (PardotAutomation>pom.xml)  
