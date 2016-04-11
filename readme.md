@@ -1,5 +1,5 @@
-**Summary**:
-Selenium functional test using Java and JUnit to test Pardot web application  
+**Summary**:  
+Selenium WebDriver functional test using Java and JUnit to test Pardot web application  
 
 **Pre-requisite:**  
 1) Need to install Java JDK 
